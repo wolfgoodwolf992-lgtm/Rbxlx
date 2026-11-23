@@ -1,0 +1,1996 @@
+<?xml version='1.0' encoding='utf-8'?>
+<roblox version="4">
+  <External>null</External>
+  <External>nil</External>
+  <Item class="DataModel">
+    <Properties>
+      <token name="PlaceVersion">0</token>
+    </Properties>
+    <Item class="ServerStorage">
+      <Properties>
+        <string name="Name">ServerStorage</string>
+      </Properties>
+      <Item class="Folder">
+        <Properties>
+          <string name="Name">Mapas</string>
+        </Properties>
+        <Item class="Model">
+          <Properties>
+            <string name="Name">Cidade</string>
+          </Properties>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Chao</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Bright green</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>0</Y>
+                <Z>0</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>120</X>
+                <Y>2</Y>
+                <Z>120</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Grass</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Predio_A</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Medium stone grey</BrickColor>
+              <Vector3 name="Position">
+                <X>-28</X>
+                <Y>12</Y>
+                <Z>-18</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>22</X>
+                <Y>24</Y>
+                <Z>22</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Concrete</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Predio_B</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Dark stone grey</BrickColor>
+              <Vector3 name="Position">
+                <X>28</X>
+                <Y>9</Y>
+                <Z>18</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>22</X>
+                <Y>18</Y>
+                <Z>22</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Concrete</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Casa</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Bright yellow</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>6</Y>
+                <Z>36</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>24</X>
+                <Y>12</Y>
+                <Z>18</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Brick</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Abrigo</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Bright blue</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>5</Y>
+                <Z>-35</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>18</X>
+                <Y>10</Y>
+                <Z>18</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Metal</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+        </Item>
+        <Item class="Model">
+          <Properties>
+            <string name="Name">Ilha_Tropical</string>
+          </Properties>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Areia</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Cool yellow</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>0</Y>
+                <Z>0</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>120</X>
+                <Y>2</Y>
+                <Z>120</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Sand</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Rocha_A</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Dark stone grey</BrickColor>
+              <Vector3 name="Position">
+                <X>-28</X>
+                <Y>5</Y>
+                <Z>-15</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>18</X>
+                <Y>10</Y>
+                <Z>18</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Rock</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Rocha_B</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Dark stone grey</BrickColor>
+              <Vector3 name="Position">
+                <X>30</X>
+                <Y>7</Y>
+                <Z>20</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>22</X>
+                <Y>14</Y>
+                <Z>22</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Rock</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Cabana</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Reddish brown</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>6</Y>
+                <Z>35</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>20</X>
+                <Y>12</Y>
+                <Z>16</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">WoodPlanks</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Palco</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Bright green</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>3</Y>
+                <Z>-35</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>24</X>
+                <Y>6</Y>
+                <Z>14</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Grass</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+        </Item>
+        <Item class="Model">
+          <Properties>
+            <string name="Name">Montanhas</string>
+          </Properties>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Plataforma</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Brown</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>0</Y>
+                <Z>0</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>120</X>
+                <Y>2</Y>
+                <Z>120</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Slate</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Montanha_A</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Dark stone grey</BrickColor>
+              <Vector3 name="Position">
+                <X>-30</X>
+                <Y>10</Y>
+                <Z>-20</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>34</X>
+                <Y>20</Y>
+                <Z>34</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Rock</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Montanha_B</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Dark stone grey</BrickColor>
+              <Vector3 name="Position">
+                <X>30</X>
+                <Y>13</Y>
+                <Z>22</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>30</X>
+                <Y>26</Y>
+                <Z>30</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Rock</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Abrigo</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Bright red</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>6</Y>
+                <Z>0</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>20</X>
+                <Y>12</Y>
+                <Z>18</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Metal</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Ponte</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Reddish brown</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>4</Y>
+                <Z>-38</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>48</X>
+                <Y>4</Y>
+                <Z>10</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">WoodPlanks</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+        </Item>
+        <Item class="Model">
+          <Properties>
+            <string name="Name">Deserto</string>
+          </Properties>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Areia</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Cool yellow</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>0</Y>
+                <Z>0</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>120</X>
+                <Y>2</Y>
+                <Z>120</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Sand</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Templo</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Bright yellow</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>9</Y>
+                <Z>0</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>30</X>
+                <Y>18</Y>
+                <Z>30</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Sandstone</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Ruina_A</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Brown</BrickColor>
+              <Vector3 name="Position">
+                <X>-34</X>
+                <Y>5</Y>
+                <Z>28</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>18</X>
+                <Y>10</Y>
+                <Z>18</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Sandstone</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Ruina_B</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Brown</BrickColor>
+              <Vector3 name="Position">
+                <X>34</X>
+                <Y>5</Y>
+                <Z>-28</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>18</X>
+                <Y>10</Y>
+                <Z>18</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Sandstone</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Oasis</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Bright blue</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>2</Y>
+                <Z>42</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>26</X>
+                <Y>4</Y>
+                <Z>18</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Water</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+        </Item>
+        <Item class="Model">
+          <Properties>
+            <string name="Name">Vila_Costeira</string>
+          </Properties>
+          <Item class="Part">
+            <Properties>
+              <string name="Name">Areia</string>
+              <bool name="Anchored">true</bool>
+              <bool name="CanCollide">true</bool>
+              <bool name="CanTouch">true</bool>
+              <BrickColor name="BrickColor">Brick yellow</BrickColor>
+              <Vector3 name="Position">
+                <X>0</X>
+                <Y>0</Y>
+                <Z>0</Z>
+              </Vector3>
+              <Vector3 name="Size">
+                <X>420</X>
+                <Y>2</Y>
+                <Z>420</Z>
+              </Vector3>
+              <float name="Transparency">0</float>
+              <string name="Material">Sand</string>
+              <bool name="Locked">false</bool>
+            </Properties>
+          </Item>
+        </Item>
+      </Item>
+    </Item>
+    <Item class="ServerScriptService">
+      <Properties>
+        <string name="Name">ServerScriptService</string>
+      </Properties>
+      <Item class="Script">
+        <Properties>
+          <string name="Name">SistemaPartida</string>
+          <ProtectedString name="Source">-- SISTEMA DE PARTIDA E VOTACAO - VERSAO V5 EXPANSAO E DESTRUICAO
+-- Local: ServerScriptService &gt; SistemaPartida (Script)
+
+local Players = game:GetService("Players")
+local ServerStorage = game:GetService("ServerStorage")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local TweenService = game:GetService("TweenService")
+local Debris = game:GetService("Debris")
+local Lighting = game:GetService("Lighting")
+local SoundService = game:GetService("SoundService")
+
+-- IDs de áudio de exemplo. Se algum asset estiver privado/indisponível,
+-- troque pelo ID de um áudio permitido do Creator Store.
+local AUDIOS = {
+    Vento = "rbxassetid://2662419014",
+    Chuva = "rbxassetid://1843670378",
+    Fogo = "rbxassetid://1851463645",
+    Impacto = "rbxassetid://130113415",
+    UI = "rbxassetid://72046313",
+}
+local somAmbienteAtual
+local function tocarSomGlobal(id, volume, looped)
+    if not id or id == "" then return nil end
+    local som = Instance.new("Sound")
+    som.Name = "AudioDesastre"
+    som.SoundId = id
+    som.Volume = volume or 0.45
+    som.Looped = looped == true
+    som.Parent = SoundService
+    som:Play()
+    if looped then
+        if somAmbienteAtual then somAmbienteAtual:Stop(); somAmbienteAtual:Destroy() end
+        somAmbienteAtual = som
+    else
+        Debris:AddItem(som, 12)
+    end
+    return som
+end
+local function pararSomAmbiente()
+    if somAmbienteAtual then
+        somAmbienteAtual:Stop()
+        somAmbienteAtual:Destroy()
+        somAmbienteAtual = nil
+    end
+end
+
+local INTERVALO = 15
+local TEMPO_VOTACAO = 20
+local DURACAO_PARTIDA = 150
+local DURACAO_DESASTRE = DURACAO_PARTIDA
+
+local mapasFolder = ServerStorage:WaitForChild("Mapas")
+local mapasAtivos = workspace:FindFirstChild("MapaAtual") or Instance.new("Folder")
+mapasAtivos.Name = "MapaAtual"
+mapasAtivos.Parent = workspace
+
+local eventos = ReplicatedStorage:FindFirstChild("EventosPartida") or Instance.new("Folder")
+eventos.Name = "EventosPartida"
+eventos.Parent = ReplicatedStorage
+
+local roundEvent = eventos:FindFirstChild("RoundEvent") or Instance.new("RemoteEvent")
+roundEvent.Name = "RoundEvent"
+roundEvent.Parent = eventos
+
+local voteEvent = eventos:FindFirstChild("VoteEvent") or Instance.new("RemoteEvent")
+voteEvent.Name = "VoteEvent"
+voteEvent.Parent = eventos
+
+local prontoEvent = eventos:FindFirstChild("ClientePronto") or Instance.new("RemoteEvent")
+prontoEvent.Name = "ClientePronto"
+prontoEvent.Parent = eventos
+
+local clientesProntos = {}
+prontoEvent.OnServerEvent:Connect(function(jogador)
+    clientesProntos[jogador.UserId] = true
+end)
+local votos = {}
+
+Players.PlayerRemoving:Connect(function(jogador)
+    clientesProntos[jogador.UserId] = nil
+    votos[jogador.UserId] = nil
+end)
+local opcoes = {}
+local votacaoAberta = false
+local mapaAtual
+local zonasSeguras = {}
+local efeitosDesastre = nil
+local rodadaAtiva = false
+
+local function criarPastaEfeitos()
+    if efeitosDesastre then efeitosDesastre:Destroy() end
+    efeitosDesastre = Instance.new("Folder")
+    efeitosDesastre.Name = "EfeitosDesastre"
+    efeitosDesastre.Parent = workspace
+end
+
+local function limparEfeitosDesastre()
+    if efeitosDesastre then
+        efeitosDesastre:Destroy()
+        efeitosDesastre = nil
+    end
+end
+
+local function existeJogadorVivo()
+    for _, jogador in ipairs(Players:GetPlayers()) do
+        local personagem = jogador.Character
+        local humanoide = personagem and personagem:FindFirstChildOfClass("Humanoid")
+        if humanoide and humanoide.Health &gt; 0 then
+            return true
+        end
+    end
+    return false
+end
+
+local DESASTRES = {
+    "Chuva de Meteoros", "Tornado", "Terremoto",
+    "Nevasca", "Tempestade de Raios", "Chuva de Fogo"
+}
+
+local function anunciar(texto)
+    roundEvent:FireAllClients("Mensagem", texto)
+    print("[SISTEMA DE PARTIDA] " .. texto)
+end
+
+local function limparMapa()
+    for _, objeto in ipairs(mapasAtivos:GetChildren()) do
+        objeto:Destroy()
+    end
+    mapaAtual = nil
+    zonasSeguras = {}
+end
+
+local function obterTodosOsMapas()
+    local lista = {}
+    for _, objeto in ipairs(mapasFolder:GetChildren()) do
+        if objeto:IsA("Model") then
+            table.insert(lista, objeto.Name)
+        end
+    end
+    table.sort(lista)
+    return lista
+end
+
+local function contarVotos()
+    local contagem = {}
+    for _, nome in ipairs(opcoes) do
+        contagem[nome] = 0
+    end
+    for _, nome in pairs(votos) do
+        if contagem[nome] ~= nil then
+            contagem[nome] += 1
+        end
+    end
+    return contagem
+end
+
+local plataformasVotacao = workspace:FindFirstChild("PlataformasVotacao")
+if plataformasVotacao then plataformasVotacao:Destroy() end
+plataformasVotacao = Instance.new("Folder")
+plataformasVotacao.Name = "PlataformasVotacao"
+plataformasVotacao.Parent = workspace
+
+local coresMapas = {
+    Cidade = Color3.fromRGB(70, 145, 235),
+    Ilha_Tropical = Color3.fromRGB(45, 190, 125),
+    Montanhas = Color3.fromRGB(130, 145, 165),
+    Deserto = Color3.fromRGB(225, 165, 65),
+}
+
+local function atualizarPainelPlataforma(plataforma, quantidade)
+    local placa = plataforma:FindFirstChild("PlacaDoMapa")
+    local gui = placa and placa:FindFirstChild("PainelVotos")
+    local texto = gui and gui:FindFirstChild("TextoVotos")
+    if texto then
+        local nome = plataforma:GetAttribute("NomeMapa") or "Mapa"
+        texto.Text = nome:gsub("_", " ") .. "\n" .. tostring(quantidade or 0) .. " votos"
+    end
+end
+
+local function registrarVoto(jogador, nomeMapa)
+    if not votacaoAberta then return end
+    if not jogador or not table.find(opcoes, nomeMapa) then return end
+    votos[jogador.UserId] = nomeMapa
+    local contagem = contarVotos()
+    for _, plataforma in ipairs(plataformasVotacao:GetChildren()) do
+        local nome = plataforma:GetAttribute("NomeMapa")
+        atualizarPainelPlataforma(plataforma, contagem[nome] or 0)
+    end
+    roundEvent:FireAllClients("Contagem", contagem)
+end
+
+local ultimoToque = {}
+local function criarPlataformasVotacao()
+    local spawn = workspace:FindFirstChild("SpawnLocation")
+    local origem = spawn and spawn.Position or Vector3.new(0, 4, 0)
+    local mapasDisponiveis = obterTodosOsMapas()
+    local cores = coresMapas
+    cores.Vila_Costeira = Color3.fromRGB(45, 165, 190)
+
+    for indice, nomeMapa in ipairs(mapasDisponiveis) do
+        local coluna = (indice - 1) % 3
+        local linha = math.floor((indice - 1) / 3)
+        local x = (coluna - 1) * 23 + (linha == 1 and 11.5 or 0)
+        local z = 30 + linha * 27
+        local cor = cores[nomeMapa] or Color3.fromRGB(110, 145, 190)
+
+        local plataforma = Instance.new("Part")
+        plataforma.Name = "Plataforma_" .. nomeMapa
+        plataforma.Anchored = true
+        plataforma.Size = Vector3.new(17, 1.4, 17)
+        plataforma.Material = Enum.Material.Slate
+        plataforma.Color = Color3.fromRGB(34, 42, 56)
+        plataforma.TopSurface = Enum.SurfaceType.Smooth
+        plataforma.BottomSurface = Enum.SurfaceType.Smooth
+        plataforma.Position = origem + Vector3.new(x, -1, z)
+        plataforma:SetAttribute("NomeMapa", nomeMapa)
+        plataforma.Parent = plataformasVotacao
+
+        local aro = Instance.new("Part")
+        aro.Name = "AroNeon"
+        aro.Anchored = true; aro.CanCollide = false; aro.Material = Enum.Material.Neon
+        aro.Color = cor; aro.Transparency = 0.12
+        aro.Size = Vector3.new(17.8, 0.22, 17.8)
+        aro.Position = plataforma.Position + Vector3.new(0, 0.82, 0)
+        aro.Parent = plataforma
+
+        local topo = Instance.new("Part")
+        topo.Name = "PisoDaPlataforma"
+        topo.Anchored = true; topo.Material = Enum.Material.SmoothPlastic
+        topo.Color = cor:Lerp(Color3.fromRGB(25,30,42),0.38)
+        topo.Size = Vector3.new(15.8,0.35,15.8)
+        topo.Position = plataforma.Position + Vector3.new(0,0.86,0)
+        topo.Parent = plataforma
+
+        local colunaCentral = Instance.new("Part")
+        colunaCentral.Name = "ColunaDecorativa"
+        colunaCentral.Anchored = true; colunaCentral.Material = Enum.Material.Metal
+        colunaCentral.Color = Color3.fromRGB(75,85,105)
+        colunaCentral.Size = Vector3.new(1.2,4.8,1.2)
+        colunaCentral.Position = plataforma.Position + Vector3.new(0,3.2,6.5)
+        colunaCentral.Parent = plataforma
+
+        local placa = Instance.new("Part")
+        placa.Name = "PlacaDoMapa"
+        placa.Anchored = true; placa.CanCollide = false
+        placa.Material = Enum.Material.Metal
+        placa.Color = Color3.fromRGB(22,28,40)
+        placa.Size = Vector3.new(15.5,6.5,0.8)
+        placa.Position = plataforma.Position + Vector3.new(0,6.8,7.0)
+        placa.Parent = plataforma
+
+        local painel = Instance.new("SurfaceGui")
+        painel.Name = "PainelVotos"
+        painel.Face = Enum.NormalId.Front
+        painel.AlwaysOnTop = true
+        painel.LightInfluence = 0
+        painel.SizingMode = Enum.SurfaceGuiSizingMode.PixelsPerStud
+        painel.PixelsPerStud = 40
+        painel.Parent = placa
+
+        local texto = Instance.new("TextLabel")
+        texto.Name = "TextoVotos"
+        texto.Size = UDim2.fromScale(1,1)
+        texto.BackgroundColor3 = Color3.fromRGB(22,27,38)
+        texto.BackgroundTransparency = 0.04
+        texto.TextColor3 = Color3.fromRGB(245,248,255)
+        texto.Text = nomeMapa:gsub("_"," ") .. "\n0 VOTOS"
+        texto.TextScaled = true
+        texto.Font = Enum.Font.GothamBlack
+        texto.Parent = painel
+        local stroke = Instance.new("UIStroke")
+        stroke.Color = cor; stroke.Thickness = 2; stroke.Transparency = 0.12
+        stroke.Parent = texto
+        local limite = Instance.new("UITextSizeConstraint")
+        limite.MinTextSize = 12; limite.MaxTextSize = 28; limite.Parent = texto
+
+        local luz = Instance.new("PointLight")
+        luz.Color = cor; luz.Range = 15; luz.Brightness = 0.8; luz.Parent = colunaCentral
+
+        local function aoTocar(hit)
+            local personagem = hit:FindFirstAncestorOfClass("Model")
+            local jogador = personagem and Players:GetPlayerFromCharacter(personagem)
+            if not jogador then return end
+            local agora = os.clock()
+            if ultimoToque[jogador.UserId] and agora - ultimoToque[jogador.UserId] &lt; 0.8 then return end
+            ultimoToque[jogador.UserId] = agora
+            registrarVoto(jogador, nomeMapa)
+        end
+        plataforma.Touched:Connect(aoTocar)
+        topo.Touched:Connect(aoTocar)
+    end
+end
+
+criarPlataformasVotacao()
+
+local function votarMapa()
+    -- Aguarda os clientes conectarem a interface antes de abrir a votação.
+    local limiteEspera = os.clock() + 8
+    while os.clock() &lt; limiteEspera do
+        local todosProntos = true
+        for _, jogador in ipairs(Players:GetPlayers()) do
+            if not clientesProntos[jogador.UserId] then
+                todosProntos = false
+                break
+            end
+        end
+        if todosProntos then break end
+        task.wait(0.25)
+    end
+
+    votos = {}
+    opcoes = obterTodosOsMapas()
+
+    if #opcoes == 0 then
+        anunciar("ERRO: não existem mapas dentro de ServerStorage &gt; Mapas.")
+        return nil
+    end
+
+    votacaoAberta = true
+    for _, plataforma in ipairs(plataformasVotacao:GetChildren()) do
+        atualizarPainelPlataforma(plataforma, 0)
+    end
+    roundEvent:FireAllClients("Votacao", opcoes, TEMPO_VOTACAO)
+    print("[VOTACAO] Opcoes: " .. table.concat(opcoes, ", "))
+
+    for segundos = TEMPO_VOTACAO, 1, -1 do
+        roundEvent:FireAllClients("CronometroVoto", segundos)
+        task.wait(1)
+    end
+
+    votacaoAberta = false
+    local contagem = contarVotos()
+    local maiorNumero = -1
+    local empatados = {}
+
+    for _, nome in ipairs(opcoes) do
+        local quantidade = contagem[nome] or 0
+        if quantidade &gt; maiorNumero then
+            maiorNumero = quantidade
+            empatados = {nome}
+        elseif quantidade == maiorNumero then
+            table.insert(empatados, nome)
+        end
+    end
+
+    -- Sem votos, escolhe aleatoriamente entre TODOS os mapas disponíveis.
+    local vencedor
+    if maiorNumero &lt;= 0 then
+        vencedor = opcoes[Random.new():NextInteger(1, #opcoes)]
+    else
+        vencedor = empatados[Random.new():NextInteger(1, #empatados)]
+    end
+
+    roundEvent:FireAllClients("FimVotacao", vencedor, contagem)
+    print("[VOTACAO] Mapa vencedor: " .. vencedor)
+    return vencedor
+end
+
+local function carregarMapa(nome)
+    limparMapa()
+    local modelo = mapasFolder:FindFirstChild(nome)
+    if not modelo then
+        warn("Mapa não encontrado: " .. tostring(nome))
+        return false
+    end
+
+    mapaAtual = modelo:Clone()
+    mapaAtual.Name = nome
+    mapaAtual.Parent = mapasAtivos
+
+    local estilos = {
+        Cidade = {
+            Chao = {Enum.Material.Grass, Color3.fromRGB(75, 145, 75)},
+            Predio_A = {Enum.Material.Concrete, Color3.fromRGB(125, 135, 145)},
+            Predio_B = {Enum.Material.Concrete, Color3.fromRGB(85, 95, 110)},
+            Casa = {Enum.Material.Brick, Color3.fromRGB(205, 160, 95)},
+            Abrigo = {Enum.Material.Metal, Color3.fromRGB(65, 115, 175)},
+        },
+        Ilha_Tropical = {
+            Areia = {Enum.Material.Sand, Color3.fromRGB(235, 215, 145)},
+            Rocha_A = {Enum.Material.Rock, Color3.fromRGB(85, 90, 85)},
+            Rocha_B = {Enum.Material.Rock, Color3.fromRGB(105, 100, 85)},
+            Cabana = {Enum.Material.WoodPlanks, Color3.fromRGB(135, 85, 45)},
+            Palco = {Enum.Material.Grass, Color3.fromRGB(65, 155, 75)},
+        },
+        Montanhas = {
+            Plataforma = {Enum.Material.Slate, Color3.fromRGB(115, 120, 125)},
+            Montanha_A = {Enum.Material.Rock, Color3.fromRGB(75, 80, 90)},
+            Montanha_B = {Enum.Material.Rock, Color3.fromRGB(100, 105, 115)},
+            Abrigo = {Enum.Material.Metal, Color3.fromRGB(145, 65, 55)},
+            Ponte = {Enum.Material.WoodPlanks, Color3.fromRGB(115, 75, 45)},
+        },
+        Deserto = {
+            Areia = {Enum.Material.Sand, Color3.fromRGB(225, 190, 120)},
+            Templo = {Enum.Material.Sandstone, Color3.fromRGB(205, 165, 100)},
+            Ruina_A = {Enum.Material.Sandstone, Color3.fromRGB(165, 125, 75)},
+            Ruina_B = {Enum.Material.Sandstone, Color3.fromRGB(185, 140, 85)},
+            Oasis = {Enum.Material.Water, Color3.fromRGB(45, 155, 205)},
+        },
+        Vila_Costeira = {
+            Areia = {Enum.Material.Sand, Color3.fromRGB(226, 211, 166)},
+            CasaPraia = {Enum.Material.WoodPlanks, Color3.fromRGB(205, 166, 119)},
+            Mercado = {Enum.Material.Concrete, Color3.fromRGB(220, 218, 203)},
+            Farol = {Enum.Material.Brick, Color3.fromRGB(232, 230, 218)},
+            AbrigoCosteiro = {Enum.Material.Metal, Color3.fromRGB(75, 118, 145)},
+        },
+    }
+    -- Amplia a área jogável sem exigir que o usuário edite cada mapa manualmente.
+    for _, parte in ipairs(mapaAtual:GetDescendants()) do
+        if parte:IsA("BasePart") then
+            if parte.Name == "Chao" or parte.Name == "Areia" or parte.Name == "Plataforma" then
+                parte.Size = Vector3.new(420, parte.Size.Y, 420)
+            else
+                parte.Position = Vector3.new(parte.Position.X * 1.55, parte.Position.Y, parte.Position.Z * 1.55)
+                parte.Size = Vector3.new(parte.Size.X * 1.32, parte.Size.Y, parte.Size.Z * 1.32)
+            end
+        end
+    end
+
+    local estiloMapa = estilos[nome]
+    if estiloMapa then
+        for _, parte in ipairs(mapaAtual:GetDescendants()) do
+            if parte:IsA("BasePart") and estiloMapa[parte.Name] then
+                parte.Material = estiloMapa[parte.Name][1]
+                parte.Color = estiloMapa[parte.Name][2]
+            end
+        end
+    end
+
+    -- Cenário procedural: detalhes extras leves para deixar os mapas mais vivos.
+    local detalhes = Instance.new("Folder")
+    detalhes.Name = "DetalhesCenario"
+    detalhes.Parent = mapaAtual
+    local function bloco(nomeParte, tamanhoParte, posicao, cor, material, forma)
+        local p = Instance.new("Part")
+        p.Name = nomeParte
+        p.Anchored = true
+        p.Size = tamanhoParte
+        p.Position = Vector3.new(posicao.X * 1.30, posicao.Y, posicao.Z * 1.30)
+        p.Color = cor
+        p.Material = material or Enum.Material.SmoothPlastic
+        p.TopSurface = Enum.SurfaceType.Smooth
+        p.BottomSurface = Enum.SurfaceType.Smooth
+        p.CanCollide = true
+        if forma then p.Shape = forma end
+        p.Parent = detalhes
+        return p
+    end
+
+    -- Converte peças decorativas em construções realmente exploráveis.
+    local function criarInterior(nomePeca)
+        local original = mapaAtual:FindFirstChild(nomePeca, true)
+        if not original or not original:IsA("BasePart") then return end
+        local centro = original.Position
+        local largura = math.max(14, original.Size.X * 0.88)
+        local profundidade = math.max(14, original.Size.Z * 0.88)
+        local altura = math.clamp(original.Size.Y * 0.62, 9, 15)
+        local espessura = 1.2
+        local pisoY = original.Position.Y - original.Size.Y / 2 + 1.05
+        local paredeY = pisoY + altura / 2
+        local frenteZ = centro.Z + profundidade / 2
+        local paredeCor = original.Color:Lerp(Color3.fromRGB(235, 225, 205), 0.48)
+        local pisoCor = Color3.fromRGB(105, 100, 92)
+        local interior = Instance.new("Model")
+        interior.Name = "Interior_" .. nomePeca
+        interior.Parent = detalhes
+
+        local function parteInterior(nome, tamanho, posicao, cor, material, colide)
+            local p = Instance.new("Part")
+            p.Name = nome
+            p.Anchored = true
+            p.Size = tamanho
+            p.Position = posicao
+            p.Color = cor
+            p.Material = material or Enum.Material.SmoothPlastic
+            p.TopSurface = Enum.SurfaceType.Smooth
+            p.BottomSurface = Enum.SurfaceType.Smooth
+            p.CanCollide = colide ~= false
+            p.Parent = interior
+            return p
+        end
+
+        parteInterior("PisoInterno", Vector3.new(largura, 1, profundidade), Vector3.new(centro.X, pisoY, centro.Z), pisoCor, Enum.Material.WoodPlanks)
+        parteInterior("ParedeFundo", Vector3.new(largura, altura, espessura), Vector3.new(centro.X, paredeY, centro.Z - profundidade/2), paredeCor, Enum.Material.Concrete)
+        parteInterior("ParedeEsquerda", Vector3.new(espessura, altura, profundidade), Vector3.new(centro.X - largura/2, paredeY, centro.Z), paredeCor, Enum.Material.Concrete)
+        parteInterior("ParedeDireita", Vector3.new(espessura, altura, profundidade), Vector3.new(centro.X + largura/2, paredeY, centro.Z), paredeCor, Enum.Material.Concrete)
+        local vao = math.min(6, largura * 0.32)
+        local lado = (largura - vao) / 2
+        parteInterior("ParedeFrontalEsquerda", Vector3.new(lado, altura, espessura), Vector3.new(centro.X - (vao+lado)/2, paredeY, frenteZ), paredeCor, Enum.Material.Concrete)
+        parteInterior("ParedeFrontalDireita", Vector3.new(lado, altura, espessura), Vector3.new(centro.X + (vao+lado)/2, paredeY, frenteZ), paredeCor, Enum.Material.Concrete)
+        parteInterior("VigaDaEntrada", Vector3.new(vao, 2, espessura), Vector3.new(centro.X, pisoY + altura - 1, frenteZ), paredeCor, Enum.Material.Concrete)
+        parteInterior("Teto", Vector3.new(largura, 1, profundidade), Vector3.new(centro.X, pisoY + altura + 0.5, centro.Z), original.Color, Enum.Material.Concrete)
+
+        -- Porta com interação por toque/proximidade; abre espaço para entrar.
+        local porta = parteInterior("PortaInterativa", Vector3.new(vao - 0.25, math.max(6, altura - 2), 0.7), Vector3.new(centro.X, pisoY + math.max(6, altura - 2)/2, frenteZ - 0.55), Color3.fromRGB(105, 68, 42), Enum.Material.WoodPlanks)
+        local prompt = Instance.new("ProximityPrompt")
+        prompt.ActionText = "Abrir"
+        prompt.ObjectText = "Porta"
+        prompt.KeyboardKeyCode = Enum.KeyCode.E
+        prompt.HoldDuration = 0
+        prompt.MaxActivationDistance = 10
+        prompt.RequiresLineOfSight = false
+        prompt.Parent = porta
+        local aberta = false
+        local portaFechada = porta.CFrame
+        prompt.Triggered:Connect(function()
+            aberta = not aberta
+            prompt.ActionText = aberta and "Fechar" or "Abrir"
+            local destino = aberta and (portaFechada * CFrame.Angles(0, math.rad(90), 0)) or portaFechada
+            TweenService:Create(porta, TweenInfo.new(0.28, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {CFrame = destino}):Play()
+        end)
+
+        -- Janelas simples com vidro translúcido nas paredes laterais.
+        for _, ladoX in ipairs({-1, 1}) do
+            local janela = parteInterior("JanelaInterna", Vector3.new(0.25, 3, 5), Vector3.new(centro.X + ladoX*(largura/2 - 0.25), pisoY + altura*0.64, centro.Z - profundidade*0.12), Color3.fromRGB(115, 190, 220), Enum.Material.Glass, false)
+            janela.Transparency = 0.28
+        end
+
+        -- Móveis variam conforme o tipo de construção.
+        local tampoY = pisoY + 2
+        parteInterior("Mesa", Vector3.new(5, 0.6, 3), Vector3.new(centro.X, tampoY, centro.Z - 2), Color3.fromRGB(115, 75, 45), Enum.Material.WoodPlanks)
+        for _, dx in ipairs({-1.8, 1.8}) do
+            parteInterior("PernaMesa", Vector3.new(0.45, 2, 0.45), Vector3.new(centro.X+dx, pisoY+1, centro.Z-2), Color3.fromRGB(80, 55, 35), Enum.Material.Wood)
+        end
+        parteInterior("Banco", Vector3.new(6, 1.2, 1.5), Vector3.new(centro.X, pisoY+1.1, centro.Z+3), Color3.fromRGB(90, 115, 125), Enum.Material.Fabric)
+        local luz = Instance.new("PointLight")
+        luz.Color = Color3.fromRGB(255, 226, 170)
+        luz.Brightness = 0.8
+        luz.Range = 18
+        luz.Parent = parteInterior("LuminariaInterna", Vector3.new(1, 0.3, 1), Vector3.new(centro.X, pisoY+altura-1.5, centro.Z), Color3.fromRGB(255, 230, 180), Enum.Material.Neon, false)
+
+        -- Interior ampliado: sala mobiliada, banheiro e segundo andar com escada.
+        parteInterior("SofaSala", Vector3.new(math.min(8, largura*0.42), 2.2, 2.4), Vector3.new(centro.X-largura*0.20, pisoY+1.5, centro.Z+profundidade*0.22), Color3.fromRGB(65, 105, 125), Enum.Material.Fabric)
+        parteInterior("BalcaoCozinha", Vector3.new(math.min(7, largura*0.38), 2.1, 1.5), Vector3.new(centro.X+largura*0.22, pisoY+1.45, centro.Z+profundidade*0.20), Color3.fromRGB(125, 95, 68), Enum.Material.WoodPlanks)
+        parteInterior("Televisao", Vector3.new(0.35, 2.4, 4.2), Vector3.new(centro.X-largura*0.20, pisoY+3.1, centro.Z-profundidade*0.25), Color3.fromRGB(22, 25, 30), Enum.Material.SmoothPlastic)
+
+        -- Banheiro fechado em um canto, com vaso e pia reconhecíveis.
+        local bx = centro.X + largura*0.27
+        local bz = centro.Z - profundidade*0.27
+        parteInterior("ParedeBanheiroA", Vector3.new(largura*0.34, math.min(altura*0.55,7), 0.7), Vector3.new(bx, pisoY+math.min(altura*0.28,3.5), bz+profundidade*0.16), paredeCor, Enum.Material.Concrete)
+        parteInterior("ParedeBanheiroB", Vector3.new(0.7, math.min(altura*0.55,7), profundidade*0.32), Vector3.new(bx-largura*0.16, pisoY+math.min(altura*0.28,3.5), bz), paredeCor, Enum.Material.Concrete)
+        parteInterior("VasoSanitario", Vector3.new(1.8, 1.5, 2.2), Vector3.new(bx+largura*0.04, pisoY+1.1, bz+profundidade*0.05), Color3.fromRGB(235,235,230), Enum.Material.SmoothPlastic)
+        parteInterior("PiaBanheiro", Vector3.new(2.4, 2, 1.4), Vector3.new(bx-largura*0.07, pisoY+1.3, bz-profundidade*0.08), Color3.fromRGB(230,230,225), Enum.Material.SmoothPlastic)
+
+        local temSegundoAndar = largura &gt;= 16 and profundidade &gt;= 15 and altura &gt;= 10
+        if temSegundoAndar then
+            local nivel2 = pisoY + altura*0.52
+            parteInterior("PisoSegundoAndar", Vector3.new(largura*0.88, 0.8, profundidade*0.54), Vector3.new(centro.X, nivel2, centro.Z-profundidade*0.22), pisoCor, Enum.Material.WoodPlanks)
+            parteInterior("CamaSegundoAndar", Vector3.new(5.5, 1.2, 7), Vector3.new(centro.X-largura*0.18, nivel2+1, centro.Z-profundidade*0.23), Color3.fromRGB(225,220,205), Enum.Material.Fabric)
+            parteInterior("ArmarioSegundoAndar", Vector3.new(2.2, 4.2, 4), Vector3.new(centro.X+largura*0.30, nivel2+2.4, centro.Z-profundidade*0.23), Color3.fromRGB(115,78,52), Enum.Material.WoodPlanks)
+            for degrau=1,7 do
+                parteInterior("DegrauEscada", Vector3.new(4.2,0.55,2.0), Vector3.new(centro.X+largura*0.28, pisoY+0.7+degrau*0.82, centro.Z+profundidade*0.28-degrau*2.0), Color3.fromRGB(115,82,55), Enum.Material.WoodPlanks)
+            end
+            parteInterior("GuardaCorpoSegundoAndar", Vector3.new(largura*0.86,1.1,0.35), Vector3.new(centro.X,nivel2+0.85,centro.Z+profundidade*0.04), Color3.fromRGB(105,78,55), Enum.Material.Wood)
+        end
+
+        local zona = Instance.new("Part")
+        zona.Name = "ZonaSegura"
+        zona.Anchored = true
+        zona.CanCollide = false
+        zona.CanTouch = false
+        zona.CanQuery = false
+        zona.Transparency = 1
+        zona.Size = Vector3.new(largura-2, altura-2, profundidade-2)
+        zona.CFrame = CFrame.new(centro.X, pisoY + altura/2, centro.Z)
+        zona.Parent = interior
+        table.insert(zonasSeguras, zona)
+        original.Transparency = 1
+        original.CanCollide = false
+        original.CanTouch = false
+    end
+
+    -- Novas construcoes-base; cada uma recebe paredes, janelas, porta e interior abaixo.
+    if nome == "Cidade" then
+        bloco("CasaExtra_A", Vector3.new(20, 12, 18), Vector3.new(-48, 7, 72), Color3.fromRGB(190, 135, 95), Enum.Material.Brick)
+        bloco("CasaExtra_B", Vector3.new(20, 12, 18), Vector3.new(48, 7, -72), Color3.fromRGB(205, 180, 130), Enum.Material.Brick)
+        bloco("LojaExtra", Vector3.new(24, 15, 20), Vector3.new(0, 8.5, 82), Color3.fromRGB(95, 125, 155), Enum.Material.Concrete)
+        bloco("CasaExtra_C", Vector3.new(22, 14, 20), Vector3.new(-82, 7.5, 8), Color3.fromRGB(180, 105, 85), Enum.Material.Brick)
+        bloco("CasaExtra_D", Vector3.new(24, 15, 22), Vector3.new(82, 8, -8), Color3.fromRGB(205, 175, 130), Enum.Material.Brick)
+        bloco("PredioResidencial_C", Vector3.new(30, 30, 28), Vector3.new(-88, 16, -78), Color3.fromRGB(105, 120, 138), Enum.Material.Concrete)
+    elseif nome == "Ilha_Tropical" then
+        bloco("CabanaExtra_A", Vector3.new(18, 11, 16), Vector3.new(-62, 6.5, 48), Color3.fromRGB(145, 95, 55), Enum.Material.WoodPlanks)
+        bloco("CabanaExtra_B", Vector3.new(22, 14, 20), Vector3.new(62, 7.5, -48), Color3.fromRGB(155, 105, 65), Enum.Material.WoodPlanks)
+        bloco("CasaPraiaExtra", Vector3.new(24, 15, 21), Vector3.new(-5, 8, 75), Color3.fromRGB(195, 145, 100), Enum.Material.WoodPlanks)
+    elseif nome == "Montanhas" then
+        bloco("CabanaMontanha_A", Vector3.new(20, 13, 18), Vector3.new(-72, 7.5, 42), Color3.fromRGB(105, 85, 75), Enum.Material.WoodPlanks)
+        bloco("CabanaMontanha_B", Vector3.new(22, 14, 20), Vector3.new(68, 7.5, -52), Color3.fromRGB(115, 95, 82), Enum.Material.WoodPlanks)
+        bloco("HotelMontanha", Vector3.new(30, 26, 28), Vector3.new(4, 14, 78), Color3.fromRGB(130, 140, 150), Enum.Material.Concrete)
+    elseif nome == "Deserto" then
+        bloco("PostoDeserto", Vector3.new(20, 12, 18), Vector3.new(-65, 7, 48), Color3.fromRGB(195, 155, 100), Enum.Material.Sandstone)
+        bloco("CasaOasis", Vector3.new(22, 14, 20), Vector3.new(62, 7.5, -52), Color3.fromRGB(205, 175, 125), Enum.Material.Sandstone)
+        bloco("PousadaDeserto", Vector3.new(28, 24, 26), Vector3.new(0, 13, 78), Color3.fromRGB(190, 150, 95), Enum.Material.Sandstone)
+    elseif nome == "Vila_Costeira" then
+        bloco("CasaPraia", Vector3.new(26, 17, 22), Vector3.new(-45, 9, 35), Color3.fromRGB(210, 175, 130), Enum.Material.WoodPlanks)
+        bloco("Mercado", Vector3.new(30, 20, 26), Vector3.new(38, 10, 28), Color3.fromRGB(220, 218, 203), Enum.Material.Concrete)
+        bloco("AbrigoCosteiro", Vector3.new(22, 15, 20), Vector3.new(-8, 8, -40), Color3.fromRGB(75, 118, 145), Enum.Material.Metal)
+        bloco("Farol", Vector3.new(16, 36, 16), Vector3.new(92, 19, -75), Color3.fromRGB(232, 230, 218), Enum.Material.Brick)
+    end
+
+    local interioresPorMapa = {
+        Cidade = {"Predio_A", "Predio_B", "Casa", "Abrigo", "CasaExtra_A", "CasaExtra_B", "LojaExtra", "CasaExtra_C", "CasaExtra_D", "PredioResidencial_C"},
+        Ilha_Tropical = {"Cabana", "CabanaExtra_A", "CabanaExtra_B", "CasaPraiaExtra"},
+        Montanhas = {"Abrigo", "CabanaMontanha_A", "CabanaMontanha_B", "HotelMontanha"},
+        Deserto = {"Templo", "Ruina_A", "Ruina_B", "PostoDeserto", "CasaOasis", "PousadaDeserto"},
+        Vila_Costeira = {"CasaPraia", "Mercado", "AbrigoCosteiro", "Farol"},
+    }
+    for _, nomePeca in ipairs(interioresPorMapa[nome] or {}) do
+        criarInterior(nomePeca)
+    end
+
+    local function arvore(x, z, tropical)
+        local tronco = bloco("Tronco", Vector3.new(2.2, tropical and 12 or 9, 2.2), Vector3.new(x, tropical and 6 or 4.5, z), Color3.fromRGB(105,70,42), Enum.Material.Wood)
+        if tropical then
+            for n=1,5 do
+                local folha = bloco("FolhaPalmeira", Vector3.new(2,1,11), Vector3.new(x, 12 + math.sin(n)*1.2, z), Color3.fromRGB(40,135 + n*5,65), Enum.Material.Grass)
+                folha.CFrame = CFrame.new(folha.Position) * CFrame.Angles(0, math.rad(n*72), math.rad((n%2==0) and 18 or -18))
+            end
+        else
+            bloco("CopaPinheiro", Vector3.new(8,9,8), Vector3.new(x,10,z), Color3.fromRGB(35,95,65), Enum.Material.Grass, Enum.PartType.Ball)
+            bloco("CopaPinheiroAlta", Vector3.new(5,7,5), Vector3.new(x,15,z), Color3.fromRGB(45,115,75), Enum.Material.Grass, Enum.PartType.Ball)
+        end
+    end
+    if nome == "Cidade" then
+        -- Ruas, calçadas, postes e fachadas com janelas.
+        bloco("Avenida", Vector3.new(330,0.35,22), Vector3.new(0,1.2,0), Color3.fromRGB(48,52,58), Enum.Material.Asphalt, Enum.PartType.Block)
+        for z=-145,145,12 do
+            bloco("FaixaPedestre", Vector3.new(2,0.12,5), Vector3.new(0,1.45,z), Color3.fromRGB(235,235,225), Enum.Material.SmoothPlastic)
+        end
+        for x=-135,135,30 do
+            bloco("Calcada", Vector3.new(10,1,220), Vector3.new(x,1.4,0), Color3.fromRGB(145,150,155), Enum.Material.Concrete)
+            local poste=bloco("PosteDeLuz", Vector3.new(0.8,13,0.8), Vector3.new(x,7.5, -82), Color3.fromRGB(55,60,68), Enum.Material.Metal)
+            bloco("Luminaria", Vector3.new(4,0.7,1.4), poste.Position+Vector3.new(1.5,6,0), Color3.fromRGB(255,230,150), Enum.Material.Neon)
+        end
+        local prediosExtras = {Vector3.new(-78,12,-55),Vector3.new(78,12,55),Vector3.new(-78,12,55),Vector3.new(78,12,-55)}
+        for indice,v in ipairs(prediosExtras) do
+            local predio = bloco("PredioExtra_" .. indice, Vector3.new(28,24,28), v, Color3.fromRGB(105,120,135), Enum.Material.Concrete)
+            criarInterior(predio.Name)
+            for andar=1,4 do
+                for lado=-1,1,2 do
+                    bloco("Janela", Vector3.new(0.3,2.6,3.8), v+Vector3.new(lado*14.2, -8+andar*5, 0), Color3.fromRGB(105,190,225), Enum.Material.Glass)
+                end
+            end
+        end
+    elseif nome == "Ilha_Tropical" then
+        for _,v in ipairs({{-88,-78},{88,-78},{-88,78},{88,78},{-70,0},{70,0},{0,-88},{0,88}}) do arvore(v[1],v[2],true) end
+        for i=1,12 do
+            local x=math.random(-98,98); local z=math.random(-98,98)
+            bloco("PedraPraia", Vector3.new(math.random(4,9),math.random(3,7),math.random(4,9)), Vector3.new(x,2,z), Color3.fromRGB(115,112,98), Enum.Material.Rock, Enum.PartType.Ball)
+        end
+        bloco("Pier", Vector3.new(10,1.2,42), Vector3.new(0,2,-80), Color3.fromRGB(120,80,48), Enum.Material.WoodPlanks)
+        for x=-4,4,8 do bloco("PilarPier", Vector3.new(1,5,1), Vector3.new(x,0,-95), Color3.fromRGB(95,65,42), Enum.Material.Wood) end
+    elseif nome == "Montanhas" then
+        for _,v in ipairs({{-92,-82},{92,-82},{-92,82},{92,82},{-65,0},{65,0},{0,-95},{0,95}}) do arvore(v[1],v[2],false) end
+        for i=1,16 do
+            local x=math.random(-100,100); local z=math.random(-100,100)
+            bloco("RochaNeve", Vector3.new(math.random(5,12),math.random(4,10),math.random(5,12)), Vector3.new(x,3,z), Color3.fromRGB(105,112,122), Enum.Material.Rock, Enum.PartType.Ball)
+        end
+        bloco("PlataformaNeve", Vector3.new(28,2,18), Vector3.new(72,4,0), Color3.fromRGB(225,235,245), Enum.Material.Snow)
+    elseif nome == "Vila_Costeira" then
+        for _,v in ipairs({{-115,-95},{115,-95},{-115,95},{115,95},{-130,0},{130,0}}) do
+            arvore(v[1],v[2],true)
+        end
+        bloco("MarCosteiro", Vector3.new(420,0.4,72), Vector3.new(0,0.9,-150), Color3.fromRGB(35,145,190), Enum.Material.Water)
+        bloco("AreiaMolhada", Vector3.new(420,0.3,24), Vector3.new(0,1.0,-105), Color3.fromRGB(194,178,135), Enum.Material.Sand)
+        bloco("PierCosteiro", Vector3.new(14,1.4,58), Vector3.new(0,2,-105), Color3.fromRGB(120,82,50), Enum.Material.WoodPlanks)
+        for i=1,8 do
+            bloco("PostePier", Vector3.new(1.2,5,1.2), Vector3.new(-6+(i%2)*12,3,-80-i*5), Color3.fromRGB(90,65,45), Enum.Material.Wood)
+        end
+        for i=1,14 do
+            local x=math.random(-155,155); local z=math.random(-75,75)
+            bloco("RochaPraia", Vector3.new(math.random(3,8),math.random(2,5),math.random(3,8)), Vector3.new(x,2,z), Color3.fromRGB(125,125,115), Enum.Material.Rock, Enum.PartType.Ball)
+        end
+    elseif nome == "Deserto" then
+        for i=1,15 do
+            local x=math.random(-100,100); local z=math.random(-100,100)
+            bloco("Duna", Vector3.new(math.random(12,24),math.random(3,7),math.random(10,22)), Vector3.new(x,1,z), Color3.fromRGB(205,165,100), Enum.Material.Sand, Enum.PartType.Ball)
+        end
+        for _,v in ipairs({{-82,-72},{82,-72},{-82,72},{82,72},{-55,0},{55,0}}) do
+            bloco("CactoTronco", Vector3.new(2,10,2), Vector3.new(v[1],6,v[2]), Color3.fromRGB(45,125,65), Enum.Material.Grass)
+            bloco("CactoBraco", Vector3.new(6,2,2), Vector3.new(v[1]+3,7,v[2]), Color3.fromRGB(45,125,65), Enum.Material.Grass)
+        end
+        for i=1,8 do
+            local x=math.random(-90,90); local z=math.random(-90,90)
+            bloco("OssoPedra", Vector3.new(5,1,2), Vector3.new(x,2,z), Color3.fromRGB(195,180,145), Enum.Material.Sandstone)
+        end
+    end
+
+    -- Cavernas exploraveis: corredor com entrada aberta, salao interno, luzes e zona protegida.
+    local function criarCaverna(nomeCaverna, centro, largura, profundidade, altura, corRocha)
+        local caverna = Instance.new("Model")
+        caverna.Name = nomeCaverna
+        caverna.Parent = detalhes
+        local function pecaCaverna(nome, tamanho, pos, material, cor, colide)
+            local p = Instance.new("Part")
+            p.Name = nome
+            p.Anchored = true
+            p.Size = tamanho
+            p.Position = pos
+            p.Material = material or Enum.Material.Rock
+            p.Color = cor or corRocha
+            p.TopSurface = Enum.SurfaceType.Smooth
+            p.BottomSurface = Enum.SurfaceType.Smooth
+            p.CanCollide = colide ~= false
+            p.Parent = caverna
+            return p
+        end
+        local chaoY = 1.7
+        pecaCaverna("PisoCaverna", Vector3.new(largura, 1, profundidade), centro + Vector3.new(0, chaoY, 0), Enum.Material.Slate, Color3.fromRGB(75, 76, 78))
+        pecaCaverna("ParedeCavernaEsquerda", Vector3.new(2.5, altura, profundidade), centro + Vector3.new(-largura/2, chaoY + altura/2, 0))
+        pecaCaverna("ParedeCavernaDireita", Vector3.new(2.5, altura, profundidade), centro + Vector3.new(largura/2, chaoY + altura/2, 0))
+        pecaCaverna("TetoCaverna", Vector3.new(largura, 2.5, profundidade), centro + Vector3.new(0, chaoY + altura, 0))
+        pecaCaverna("FundoCaverna", Vector3.new(largura, altura, 2.5), centro + Vector3.new(0, chaoY + altura/2, profundidade/2))
+        -- Moldura rochosa ao redor da boca; o centro permanece livre para atravessar.
+        pecaCaverna("BordaEntradaEsquerda", Vector3.new(3, altura, 3), centro + Vector3.new(-largura/2 + 1.5, chaoY + altura/2, -profundidade/2))
+        pecaCaverna("BordaEntradaDireita", Vector3.new(3, altura, 3), centro + Vector3.new(largura/2 - 1.5, chaoY + altura/2, -profundidade/2))
+        pecaCaverna("BordaEntradaSuperior", Vector3.new(largura, 3, 3), centro + Vector3.new(0, chaoY + altura - 1.5, -profundidade/2))
+        for i=1,4 do
+            local lamp = pecaCaverna("CristalLuminoso", Vector3.new(1.1, 2.2, 1.1), centro + Vector3.new((i%2==0 and 1 or -1)*(largura/2-4), chaoY+3, -profundidade/2 + i*(profundidade/5)), Enum.Material.Neon, nomeCaverna == "CavernaDeserto" and Color3.fromRGB(65, 190, 160) or Color3.fromRGB(105, 185, 255), false)
+            local luz = Instance.new("PointLight")
+            luz.Color = lamp.Color
+            luz.Brightness = 1.1
+            luz.Range = 22
+            luz.Parent = lamp
+        end
+        local zona = Instance.new("Part")
+        zona.Name = "ZonaSeguraCaverna"
+        zona.Anchored = true
+        zona.CanCollide = false
+        zona.CanTouch = false
+        zona.CanQuery = false
+        zona.Transparency = 1
+        zona.Size = Vector3.new(largura-4, altura-3, profundidade-5)
+        zona.Position = centro + Vector3.new(0, chaoY + altura/2, 1)
+        zona.Parent = caverna
+        table.insert(zonasSeguras, zona)
+        pecaCaverna("RochaInteriorA", Vector3.new(5, 2, 4), centro + Vector3.new(-5, chaoY+1.5, 7), Enum.Material.Rock, corRocha)
+        pecaCaverna("RochaInteriorB", Vector3.new(4, 1.5, 3), centro + Vector3.new(6, chaoY+1.2, 13), Enum.Material.Rock, corRocha)
+    end
+
+    if nome == "Montanhas" then
+        criarCaverna("CavernaMontanha", Vector3.new(-105, 0, 2), 30, 52, 17, Color3.fromRGB(80, 88, 98))
+        criarCaverna("CavernaGelo", Vector3.new(105, 0, 28), 26, 44, 16, Color3.fromRGB(125, 145, 160))
+    elseif nome == "Deserto" then
+        criarCaverna("CavernaDeserto", Vector3.new(105, 0, 4), 30, 52, 17, Color3.fromRGB(145, 112, 75))
+        criarCaverna("CavernaRuinas", Vector3.new(-105, 0, -28), 26, 44, 16, Color3.fromRGB(160, 130, 92))
+    end
+
+    -- Atmosfera muda conforme o mapa; os efeitos são restaurados na próxima rodada.
+    if nome == "Cidade" then
+        Lighting.ClockTime=17.5; Lighting.Brightness=2; Lighting.OutdoorAmbient=Color3.fromRGB(135,145,165)
+    elseif nome == "Ilha_Tropical" then
+        Lighting.ClockTime=13.5; Lighting.Brightness=2.5; Lighting.OutdoorAmbient=Color3.fromRGB(155,180,190)
+    elseif nome == "Montanhas" then
+        Lighting.ClockTime=10; Lighting.Brightness=1.8; Lighting.OutdoorAmbient=Color3.fromRGB(145,160,180)
+    else
+        Lighting.ClockTime=16; Lighting.Brightness=2.2; Lighting.OutdoorAmbient=Color3.fromRGB(185,155,120)
+    end
+
+    -- Invisible collision walls prevent players from walking beyond the playable map.
+    local caixa, tamanho = mapaAtual:GetBoundingBox()
+    local centro = caixa.Position
+    local alturaParede = math.max(80, tamanho.Y + 50)
+    local margem = 4
+    local limites = Instance.new("Folder")
+    limites.Name = "LimitesDaArea"
+    limites.Parent = mapaAtual
+    local function parede(nomeParede, tamanhoParede, posicao)
+        local p = Instance.new("Part")
+        p.Name = nomeParede
+        p.Anchored = true
+        p.CanCollide = true
+        p.CanTouch = false
+        p.CanQuery = false
+        p.Transparency = 1
+        p.Size = tamanhoParede
+        p.Position = posicao
+        p.Parent = limites
+    end
+    parede("Limite_Norte", Vector3.new(tamanho.X + margem * 2, alturaParede, 2), centro + Vector3.new(0, 0, -tamanho.Z / 2 - margem))
+    parede("Limite_Sul", Vector3.new(tamanho.X + margem * 2, alturaParede, 2), centro + Vector3.new(0, 0, tamanho.Z / 2 + margem))
+    parede("Limite_Leste", Vector3.new(2, alturaParede, tamanho.Z + margem * 2), centro + Vector3.new(tamanho.X / 2 + margem, 0, 0))
+    parede("Limite_Oeste", Vector3.new(2, alturaParede, tamanho.Z + margem * 2), centro + Vector3.new(-tamanho.X / 2 - margem, 0, 0))
+    return true
+end
+
+local function teleportarJogadores()
+    if not mapaAtual then return end
+
+    local base
+    for _, objeto in ipairs(mapaAtual:GetDescendants()) do
+        if objeto:IsA("BasePart") and
+            (objeto.Name == "Chao" or objeto.Name == "Areia" or objeto.Name == "Plataforma") then
+            base = objeto
+            break
+        end
+    end
+
+    if not base then
+        base = mapaAtual:FindFirstChildWhichIsA("BasePart", true)
+    end
+    if not base then
+        warn("O mapa não tem nenhuma peça para servir de ponto de chegada.")
+        return
+    end
+
+    local lista = Players:GetPlayers()
+    for indice, jogador in ipairs(lista) do
+        local personagem = jogador.Character
+        local raiz = personagem and personagem:FindFirstChild("HumanoidRootPart")
+        if raiz then
+            local angulo = (indice / math.max(#lista, 1)) * math.pi * 2
+            raiz.CFrame = CFrame.new(base.Position + Vector3.new(math.cos(angulo)*18, 7, math.sin(angulo)*18))
+        end
+    end
+end
+
+local function criarEfeito(posicao, cor, tamanho, tempo)
+    local p = Instance.new("Part")
+    p.Shape = Enum.PartType.Ball
+    p.Material = Enum.Material.Neon
+    p.Color = cor
+    p.Size = tamanho
+    p.Anchored = true
+    p.CanCollide = false
+    p.Position = posicao
+    p.Parent = efeitosDesastre or workspace
+    Debris:AddItem(p, tempo or 2)
+    return p
+end
+
+local function estaEmAbrigo(personagem)
+    local raiz = personagem and personagem:FindFirstChild("HumanoidRootPart")
+    if not raiz then return false end
+    for _, zona in ipairs(zonasSeguras) do
+        if zona and zona.Parent then
+            local localPos = zona.CFrame:PointToObjectSpace(raiz.Position)
+            local metade = zona.Size / 2
+            if math.abs(localPos.X) &lt;= metade.X and math.abs(localPos.Y) &lt;= metade.Y and math.abs(localPos.Z) &lt;= metade.Z then
+                return true
+            end
+        end
+    end
+    return false
+end
+
+local function danoPerto(posicao, raio, dano)
+    for _, jogador in ipairs(Players:GetPlayers()) do
+        local personagem = jogador.Character
+        local raiz = personagem and personagem:FindFirstChild("HumanoidRootPart")
+        local humanoide = personagem and personagem:FindFirstChildOfClass("Humanoid")
+        if raiz and humanoide and (raiz.Position - posicao).Magnitude &lt;= raio and not estaEmAbrigo(personagem) then
+            humanoide:TakeDamage(dano)
+        end
+    end
+end
+
+-- Desancora apenas pecas do mapa proximas do impacto; piso/base/spawns ficam protegidos.
+local function desancorarObjetos(posicao, raio, quantidadeMaxima, impulso)
+    if not mapaAtual then return 0 end
+    local protegidos = {Chao=true, Areia=true, Plataforma=true, Baseplate=true, SpawnLocation=true,
+        PisoInterno=true, PisoCaverna=true, ZonaSegura=true, ZonaSeguraCaverna=true}
+    local candidatos = {}
+    for _, parte in ipairs(mapaAtual:GetDescendants()) do
+        if parte:IsA("BasePart") and parte.Anchored and not parte:IsA("SpawnLocation") then
+            local nome = parte.Name
+            local bloqueada = protegidos[nome] or string.find(string.lower(nome), "baseplate", 1, true)
+                or string.find(string.lower(nome), "spawnlocation", 1, true)
+                or string.find(string.lower(nome), "zonasegura", 1, true)
+                or string.find(string.lower(nome), "piso", 1, true)
+            if not bloqueada and parte.Transparency &lt; 0.95 and (parte.Position - posicao).Magnitude &lt;= raio then
+                table.insert(candidatos, parte)
+            end
+        end
+    end
+    -- Primeiro solta as pecas mais proximas do impacto.
+    table.sort(candidatos, function(a,b)
+        return (a.Position-posicao).Magnitude &lt; (b.Position-posicao).Magnitude
+    end)
+    local total = 0
+    for _, parte in ipairs(candidatos) do
+        if total &gt;= (quantidadeMaxima or 4) then break end
+        if parte and parte.Parent and parte.Anchored then
+            parte.Anchored = false
+            -- Network ownership and impulse are best-effort: some assemblies may reject ownership changes.
+            pcall(function() parte:SetNetworkOwner(nil) end)
+            local direcao = parte.Position - posicao
+            if direcao.Magnitude &lt; 0.1 then direcao = Vector3.new(0,1,0) end
+            local massa = math.max(1, parte.AssemblyMass)
+            pcall(function()
+                parte:ApplyImpulse((direcao.Unit * (impulso or 38) + Vector3.new(0, impulso or 38, 0)) * massa)
+            end)
+            total += 1
+        end
+    end
+    return total
+end
+
+local function centroMapa()
+    if not mapaAtual then return Vector3.new(0, 5, 0) end
+    local p = mapaAtual:FindFirstChildWhichIsA("BasePart", true)
+    return p and p.Position or Vector3.new(0, 5, 0)
+end
+
+local function meteoros(duracao)
+    tocarSomGlobal(AUDIOS.Vento, 0.18, true)
+    local fim = os.clock() + duracao
+    while os.clock() &lt; fim do
+        local centro=centroMapa()
+        local x,z=math.random(-170,170),math.random(-170,170)
+        local alvo=centro+Vector3.new(x,1,z)
+        local aviso=Instance.new("Part")
+        aviso.Name="AvisoImpactoMeteoro"; aviso.Shape=Enum.PartType.Cylinder
+        aviso.Size=Vector3.new(0.18,19,19); aviso.CFrame=CFrame.new(alvo+Vector3.new(0,0.2,0))*CFrame.Angles(0,0,math.rad(90))
+        aviso.Anchored=true; aviso.CanCollide=false; aviso.Material=Enum.Material.Neon
+        aviso.Color=Color3.fromRGB(255,95,30); aviso.Transparency=0.25; aviso.Parent=efeitosDesastre
+        Debris:AddItem(aviso,1.5)
+        task.wait(0.65)
+        local m=Instance.new("Part")
+        m.Name="Meteoro"; m.Shape=Enum.PartType.Ball; m.Size=Vector3.new(8,8,8)
+        m.Material=Enum.Material.Neon; m.Color=Color3.fromRGB(255,105,25)
+        m.Anchored=false; m.Position=alvo+Vector3.new(0,72,0); m.Parent=efeitosDesastre
+        local fogo=Instance.new("Fire"); fogo.Size=10; fogo.Heat=14; fogo.Parent=m
+        local fumaca=Instance.new("Smoke"); fumaca.Size=8; fumaca.Opacity=0.35; fumaca.RiseVelocity=18; fumaca.Parent=m
+        local luz=Instance.new("PointLight"); luz.Color=m.Color; luz.Range=22; luz.Brightness=2.5; luz.Parent=m
+        m.AssemblyLinearVelocity=Vector3.new(math.random(-12,12),-135,math.random(-12,12))
+        local atingiu=false
+        m.Touched:Connect(function()
+            if atingiu then return end; atingiu=true
+            local impacto=m.Position
+            danoPerto(impacto,20,38)
+            desancorarObjetos(impacto, 25, 7, 48)
+            local onda=criarEfeito(impacto,Color3.fromRGB(255,145,45),Vector3.new(3,3,3),0.65)
+            TweenService:Create(onda,TweenInfo.new(0.55),{Size=Vector3.new(34,2,34),Transparency=1}):Play()
+            tocarSomGlobal(AUDIOS.Impacto,0.35,false)
+            m:Destroy()
+        end)
+        Debris:AddItem(m,5)
+        task.wait(0.55)
+    end
+    pararSomAmbiente()
+end
+
+local function tornado(duracao)
+    tocarSomGlobal(AUDIOS.Vento,0.45,true)
+    local visual=Instance.new("Model"); visual.Name="TornadoVisual"; visual.Parent=efeitosDesastre
+    local partes={}
+    for i=1,7 do
+        local anel=Instance.new("Part"); anel.Name="FunilDeVento"; anel.Shape=Enum.PartType.Cylinder
+        anel.Size=Vector3.new(3,10+i*2,10+i*2); anel.Anchored=true; anel.CanCollide=false
+        anel.Material=Enum.Material.ForceField; anel.Transparency=0.32+i*0.045
+        anel.Color=Color3.fromRGB(175,185,195); anel.Parent=visual; table.insert(partes,anel)
+    end
+    local poeira = Instance.new("Smoke")
+    poeira.Name = "PoeiraDoTornado"
+    poeira.Color = Color3.fromRGB(145, 150, 155)
+    poeira.Opacity = 0.22
+    poeira.Size = 18
+    poeira.RiseVelocity = 15
+    poeira.Parent = partes[1]
+    local fim=os.clock()+duracao
+    local proximaDesancoragem = os.clock() + 3
+    while os.clock()&lt;fim do
+        local t=os.clock(); local centro=centroMapa()+Vector3.new(math.sin(t*0.35)*78,0,math.cos(t*0.28)*78)
+        for i,anel in ipairs(partes) do
+            local y=(i-1)*5+5; local raio=21-(i-1)*1.8
+            anel.CFrame=CFrame.new(centro+Vector3.new(math.cos(t*2.4+i)*3,y,math.sin(t*2.4+i)*3))*CFrame.Angles(0,t*2.1+i,math.rad(90))
+            anel.Size=Vector3.new(3,raio*2,raio*2)
+        end
+        if os.clock() &gt;= proximaDesancoragem then
+            desancorarObjetos(centro, 32, 2, 24)
+            proximaDesancoragem = os.clock() + 3
+        end
+        for _,jogador in ipairs(Players:GetPlayers()) do
+            local char=jogador.Character; local raiz=char and char:FindFirstChild("HumanoidRootPart")
+            if raiz and (raiz.Position-centro).Magnitude&lt;34 and not estaEmAbrigo(char) then
+                local d=centro-raiz.Position
+                raiz.AssemblyLinearVelocity=Vector3.new(d.X*1.35,math.max(18,raiz.AssemblyLinearVelocity.Y),d.Z*1.35)
+            end
+        end
+        task.wait(0.12)
+    end
+    visual:Destroy(); pararSomAmbiente()
+end
+
+local function terremoto(duracao)
+    tocarSomGlobal(AUDIOS.Impacto,0.16,true)
+    local fim=os.clock()+duracao
+    while os.clock()&lt;fim do
+        anunciar("ATENÇÃO: tremor sísmico! Procure uma área aberta!")
+        roundEvent:FireAllClients("Tremor",3.2)
+        local centro=centroMapa()
+        for i=1,8 do
+            local rachadura=Instance.new("Part"); rachadura.Name="FissuraVisual"
+            rachadura.Anchored=true; rachadura.CanCollide=false; rachadura.Material=Enum.Material.Neon
+            rachadura.Color=Color3.fromRGB(255,175,65); rachadura.Size=Vector3.new(math.random(5,13),0.12,0.45)
+            rachadura.CFrame=CFrame.new(centro+Vector3.new(math.random(-45,45),1.2,math.random(-45,45)))*CFrame.Angles(0,math.rad(math.random(0,180)),0)
+            rachadura.Parent=efeitosDesastre; Debris:AddItem(rachadura,2.5)
+        end
+        danoPerto(centro,24,7)
+        desancorarObjetos(centro + Vector3.new(math.random(-35,35), 0, math.random(-35,35)), 58, 5, 30)
+        task.wait(5.5)
+    end
+    pararSomAmbiente()
+end
+
+local function nevasca(duracao)
+    tocarSomGlobal(AUDIOS.Vento, 0.48, true)
+    local oldFogStart, oldFogEnd, oldFogColor = Lighting.FogStart, Lighting.FogEnd, Lighting.FogColor
+    local oldBrightness, oldAmbient = Lighting.Brightness, Lighting.OutdoorAmbient
+    local atmosphere = Instance.new("Atmosphere")
+    atmosphere.Name = "NeblinaNevasca"
+    atmosphere.Density = 0.58
+    atmosphere.Offset = 0.12
+    atmosphere.Color = Color3.fromRGB(190, 215, 235)
+    atmosphere.Decay = Color3.fromRGB(115, 140, 165)
+    atmosphere.Glare = 0
+    atmosphere.Haze = 4.5
+    atmosphere.Parent = Lighting
+    local correcao = Instance.new("ColorCorrectionEffect")
+    correcao.Name = "FrioNevasca"
+    correcao.TintColor = Color3.fromRGB(190, 215, 240)
+    correcao.Saturation = -0.32
+    correcao.Contrast = 0.12
+    correcao.Parent = Lighting
+    Lighting.FogStart = 8
+    Lighting.FogEnd = 105
+    Lighting.FogColor = Color3.fromRGB(185, 205, 225)
+    Lighting.Brightness = 1.25
+    Lighting.OutdoorAmbient = Color3.fromRGB(105, 125, 150)
+
+    local gerador = Instance.new("Part")
+    gerador.Name = "GeradorNevasca"
+    gerador.Anchored = true
+    gerador.CanCollide = false
+    gerador.CanTouch = false
+    gerador.CanQuery = false
+    gerador.Transparency = 1
+    gerador.Size = Vector3.new(380, 1, 380)
+    gerador.Position = centroMapa() + Vector3.new(0, 58, 0)
+    gerador.Parent = efeitosDesastre
+    local neve = Instance.new("ParticleEmitter")
+    neve.Name = "FlocosDeNeve"
+    neve.Texture = "rbxasset://textures/particles/snow_main.dds"
+    neve.Rate = 520
+    neve.Lifetime = NumberRange.new(3.5, 6)
+    neve.Speed = NumberRange.new(24, 39)
+    neve.Acceleration = Vector3.new(18, -16, 0)
+    neve.Drag = 1.2
+    neve.SpreadAngle = Vector2.new(18, 18)
+    neve.EmissionDirection = Enum.NormalId.Bottom
+    neve.Size = NumberSequence.new({NumberSequenceKeypoint.new(0, 0.22), NumberSequenceKeypoint.new(1, 0.12)})
+    neve.Transparency = NumberSequence.new({NumberSequenceKeypoint.new(0, 0.08), NumberSequenceKeypoint.new(1, 0.45)})
+    neve.RotSpeed = NumberRange.new(-90, 90)
+    neve.Rotation = NumberRange.new(0, 360)
+    neve.Parent = gerador
+
+    local rajada = Instance.new("ParticleEmitter")
+    rajada.Name = "RajadasDeNeve"
+    rajada.Texture = "rbxasset://textures/particles/snow_main.dds"
+    rajada.Rate = 95
+    rajada.Lifetime = NumberRange.new(1.1, 2.2)
+    rajada.Speed = NumberRange.new(42, 58)
+    rajada.Acceleration = Vector3.new(34, -4, 0)
+    rajada.Drag = 0.2
+    rajada.SpreadAngle = Vector2.new(35, 25)
+    rajada.EmissionDirection = Enum.NormalId.Right
+    rajada.Size = NumberSequence.new(0.32)
+    rajada.Transparency = NumberSequence.new(0.18)
+    rajada.Parent = gerador
+
+    local fim = os.clock() + duracao
+    local proximoDano = {}
+    while os.clock() &lt; fim do
+        -- Alterna rajadas de vento para variar a direcao da neve.
+        local fase = math.sin(os.clock() * 0.7)
+        neve.Acceleration = Vector3.new(18 + fase * 24, -16, math.cos(os.clock()) * 10)
+        rajada.Acceleration = Vector3.new(34 + fase * 30, -4, math.cos(os.clock() * 0.8) * 18)
+        for _, jogador in ipairs(Players:GetPlayers()) do
+            local char = jogador.Character
+            local raiz = char and char:FindFirstChild("HumanoidRootPart")
+            local hum = char and char:FindFirstChildOfClass("Humanoid")
+            if raiz and hum and hum.Health &gt; 0 then
+                hum.WalkSpeed = 8
+                if not estaEmAbrigo(char) then
+                    local agora = os.clock()
+                    if not proximoDano[jogador.UserId] or agora &gt;= proximoDano[jogador.UserId] then
+                        hum:TakeDamage(4)
+                        proximoDano[jogador.UserId] = agora + 2.2
+                    end
+                end
+            end
+        end
+        task.wait(0.4)
+    end
+    if gerador.Parent then gerador:Destroy() end
+    if atmosphere.Parent then atmosphere:Destroy() end
+    if correcao.Parent then correcao:Destroy() end
+    Lighting.FogStart, Lighting.FogEnd, Lighting.FogColor = oldFogStart, oldFogEnd, oldFogColor
+    Lighting.Brightness, Lighting.OutdoorAmbient = oldBrightness, oldAmbient
+    for _, jogador in ipairs(Players:GetPlayers()) do
+        local humanoide = jogador.Character and jogador.Character:FindFirstChildOfClass("Humanoid")
+        if humanoide then humanoide.WalkSpeed = 16 end
+    end
+    pararSomAmbiente()
+end
+
+local function raios(duracao)
+    tocarSomGlobal(AUDIOS.Chuva,0.30,true)
+    local fim=os.clock()+duracao
+    while os.clock()&lt;fim do
+        local pos=centroMapa()+Vector3.new(math.random(-175,175),0,math.random(-175,175))
+        local aviso=Instance.new("Part")
+        aviso.Name="AvisoRaio"
+        aviso.Shape=Enum.PartType.Cylinder
+        aviso.Size=Vector3.new(0.16,18,18)
+        aviso.CFrame=CFrame.new(pos+Vector3.new(0,0.25,0))*CFrame.Angles(0,0,math.rad(90))
+        aviso.Anchored=true; aviso.CanCollide=false; aviso.Material=Enum.Material.Neon
+        aviso.Color=Color3.fromRGB(150,205,255); aviso.Transparency=0.28; aviso.Parent=efeitosDesastre
+        Debris:AddItem(aviso,1.15)
+        task.wait(0.9)
+
+        local luzRaio=Instance.new("PointLight")
+        luzRaio.Color=Color3.fromRGB(190,220,255); luzRaio.Range=70; luzRaio.Brightness=7
+        local segmentos={}
+        local deslocamento=Vector3.new(0,0,0)
+        for i=1,6 do
+            deslocamento=deslocamento+Vector3.new(math.random(-3,3),-9,math.random(-3,3))
+            local segmento=Instance.new("Part")
+            segmento.Name="RaioSegmentado"
+            segmento.Anchored=true; segmento.CanCollide=false; segmento.CanTouch=false
+            segmento.Material=Enum.Material.Neon; segmento.Color=Color3.fromRGB(225,245,255)
+            segmento.Size=Vector3.new(1.1,10,1.1)
+            segmento.CFrame=CFrame.new(pos+Vector3.new(0,55-(i-1)*9,0)+deslocamento)
+            segmento.Parent=efeitosDesastre
+            if i==1 then luzRaio.Parent=segmento end
+            table.insert(segmentos,segmento)
+            Debris:AddItem(segmento,0.28)
+        end
+        Lighting.Brightness=4.5
+        danoPerto(pos,16,30)
+        desancorarObjetos(pos, 48, 12, 68)
+        local explosao = Instance.new("Explosion")
+        explosao.Position = pos + Vector3.new(0, 2, 0)
+        explosao.BlastRadius = 18
+        explosao.BlastPressure = 0
+        explosao.DestroyJointRadiusPercent = 0
+        explosao.Parent = workspace
+        Debris:AddItem(explosao, 2)
+        local claraoVisual = criarEfeito(pos + Vector3.new(0, 2, 0), Color3.fromRGB(205, 230, 255), Vector3.new(4,4,4), 0.5)
+        TweenService:Create(claraoVisual, TweenInfo.new(0.38), {Size=Vector3.new(25,25,25), Transparency=1}):Play()
+        tocarSomGlobal(AUDIOS.Impacto,0.48,false)
+        task.wait(0.12)
+        Lighting.Brightness=2
+        task.wait(1.65)
+    end
+    pararSomAmbiente()
+end
+
+local function fogo(duracao)
+    tocarSomGlobal(AUDIOS.Fogo,0.28,true)
+    local fim = os.clock() + duracao
+    local proximaDesancoragem = os.clock() + 8
+    while os.clock() &lt; fim do
+        local pos = centroMapa() + Vector3.new(math.random(-45,45), 2, math.random(-45,45))
+        if os.clock() &gt;= proximaDesancoragem then
+            desancorarObjetos(pos, 12, 1, 18)
+            proximaDesancoragem = os.clock() + 8
+        end
+        local p = Instance.new("Part")
+        p.Name = "FogoDoDesastre"
+        p.Size = Vector3.new(5,1,5)
+        p.Position = pos
+        p.Anchored = true
+        p.CanCollide = false
+        p.Transparency = 1
+        p.Parent = efeitosDesastre or workspace
+        local fire = Instance.new("Fire")
+        fire.Size = 9
+        fire.Heat = 12
+        fire.Color = Color3.fromRGB(255,125,35)
+        fire.SecondaryColor = Color3.fromRGB(255,220,75)
+        fire.Parent = p
+        local fumaca=Instance.new("Smoke")
+        fumaca.Color=Color3.fromRGB(70,65,60); fumaca.Opacity=0.28; fumaca.Size=12; fumaca.RiseVelocity=14
+        fumaca.Parent=p
+        local luz=Instance.new("PointLight"); luz.Color=Color3.fromRGB(255,115,35); luz.Range=18; luz.Brightness=2; luz.Parent=p
+        Debris:AddItem(p, 5)
+        danoPerto(pos, 11, 18)
+        task.wait(0.95)
+    end
+    pararSomAmbiente()
+end
+
+local funcoesDesastre = {
+    ["Chuva de Meteoros"] = meteoros,
+    ["Tornado"] = tornado,
+    ["Terremoto"] = terremoto,
+    ["Nevasca"] = nevasca,
+    ["Tempestade de Raios"] = raios,
+    ["Chuva de Fogo"] = fogo
+}
+
+local function escolherDesastre(nomeMapa)
+    local disponiveis = {}
+    for _, nome in ipairs(DESASTRES) do
+        if not ((nomeMapa == "Deserto" or nomeMapa == "Vila_Costeira") and nome == "Nevasca") then
+            table.insert(disponiveis, nome)
+        end
+    end
+    if #disponiveis == 0 then return "Tempestade de Raios" end
+    return disponiveis[Random.new():NextInteger(1, #disponiveis)]
+end
+
+local function resetarJogadores()
+    for _, jogador in ipairs(Players:GetPlayers()) do
+        local hum = jogador.Character and jogador.Character:FindFirstChildOfClass("Humanoid")
+        if hum then hum.WalkSpeed = 16 end
+    end
+end
+
+while true do
+    for segundos = INTERVALO, 1, -1 do
+        roundEvent:FireAllClients("Mensagem", "Próxima votação em " .. segundos .. " segundos")
+        task.wait(1)
+    end
+
+    local vencedor = votarMapa()
+    if not vencedor then
+        task.wait(5)
+        continue
+    end
+
+    if not carregarMapa(vencedor) then
+        task.wait(5)
+        continue
+    end
+
+    task.wait(1)
+    teleportarJogadores()
+    anunciar("Mapa escolhido: " .. vencedor)
+    task.wait(3)
+
+    -- Preserve a iluminação definida pelo mapa para restaurá-la mesmo se um desastre for interrompido.
+    local lightingRodada = {
+        Brightness = Lighting.Brightness,
+        ClockTime = Lighting.ClockTime,
+        OutdoorAmbient = Lighting.OutdoorAmbient,
+        FogStart = Lighting.FogStart,
+        FogEnd = Lighting.FogEnd,
+        FogColor = Lighting.FogColor,
+    }
+
+    -- Começa a rodada e registra os jogadores vivos.
+    rodadaAtiva = true
+    criarPastaEfeitos()
+
+    local desastre = escolherDesastre(vencedor)
+    anunciar("DESASTRE: " .. string.upper(desastre) .. "!")
+    roundEvent:FireAllClients("Desastre", desastre)
+
+    -- O desastre fica ativo durante toda a rodada; os efeitos menores podem expirar e ser recriados continuamente.
+    local desastreTerminou = false
+    local tarefaDesastre = task.spawn(function()
+        local sucesso, erro = pcall(function()
+            funcoesDesastre[desastre](DURACAO_DESASTRE)
+        end)
+        if not sucesso then
+            warn("[DESASTRE] Erro em " .. desastre .. ": " .. tostring(erro))
+        end
+        desastreTerminou = true
+        limparEfeitosDesastre()
+    end)
+
+    local tempoRestante = DURACAO_PARTIDA
+    while tempoRestante &gt; 0 do
+        if not existeJogadorVivo() then
+            anunciar("Todos os jogadores foram eliminados! Partida encerrada.")
+            break
+        end
+
+        if tempoRestante % 10 == 0 or tempoRestante &lt;= 5 then
+            roundEvent:FireAllClients("Mensagem", "Tempo restante: " .. tempoRestante .. "s")
+        end
+
+        task.wait(1)
+        tempoRestante -= 1
+    end
+
+    rodadaAtiva = false
+    if not desastreTerminou then
+        pcall(function() task.cancel(tarefaDesastre) end)
+    end
+    limparEfeitosDesastre()
+    pararSomAmbiente()
+    for _, efeito in ipairs(Lighting:GetChildren()) do
+        if efeito.Name == "NeblinaNevasca" or efeito.Name == "FrioNevasca" then efeito:Destroy() end
+    end
+    -- Restaura exatamente a iluminação do mapa, em vez de forçar um valor genérico.
+    if lightingRodada then
+        Lighting.Brightness = lightingRodada.Brightness
+        Lighting.ClockTime = lightingRodada.ClockTime
+        Lighting.OutdoorAmbient = lightingRodada.OutdoorAmbient
+        Lighting.FogStart = lightingRodada.FogStart
+        Lighting.FogEnd = lightingRodada.FogEnd
+        Lighting.FogColor = lightingRodada.FogColor
+    end
+    resetarJogadores()
+
+    if tempoRestante &lt;= 0 then
+        anunciar("Tempo esgotado! Partida encerrada.")
+    end
+
+    task.wait(3)
+    limparMapa()
+
+    for _, jogador in ipairs(Players:GetPlayers()) do
+        jogador:LoadCharacter()
+    end
+    task.wait(3)
+end
+</ProtectedString>
+        </Properties>
+      </Item>
+    </Item>
+    <Item class="StarterPlayer">
+      <Properties>
+        <string name="Name">StarterPlayer</string>
+      </Properties>
+      <Item class="StarterPlayerScripts">
+        <Properties>
+          <string name="Name">StarterPlayerScripts</string>
+        </Properties>
+        <Item class="LocalScript">
+          <Properties>
+            <string name="Name">InterfacePartida</string>
+            <ProtectedString name="Source">-- INTERFACE DA PARTIDA - V5
+-- Local: StarterPlayer &gt; StarterPlayerScripts &gt; InterfacePartida (LocalScript)
+
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local RunService = game:GetService("RunService")
+local SoundService = game:GetService("SoundService")
+local player = Players.LocalPlayer
+
+local eventos = ReplicatedStorage:WaitForChild("EventosPartida")
+local roundEvent = eventos:WaitForChild("RoundEvent")
+local prontoEvent = eventos:WaitForChild("ClientePronto")
+
+local playerGui = player:WaitForChild("PlayerGui")
+local antiga = playerGui:FindFirstChild("InterfacePartida")
+if antiga then antiga:Destroy() end
+
+local gui = Instance.new("ScreenGui")
+gui.Name = "InterfacePartida"
+gui.ResetOnSpawn = false
+gui.IgnoreGuiInset = false
+gui.DisplayOrder = 20
+gui.Parent = playerGui
+
+local aviso = Instance.new("TextLabel")
+aviso.Name = "Aviso"
+aviso.AnchorPoint = Vector2.new(0.5, 0)
+aviso.Size = UDim2.new(0.42, 0, 0, 30)
+aviso.Position = UDim2.new(0.5, 0, 0.008, 0)
+aviso.BackgroundColor3 = Color3.fromRGB(20, 24, 32)
+aviso.BackgroundTransparency = 0.08
+aviso.TextColor3 = Color3.new(1, 1, 1)
+aviso.TextScaled = true
+aviso.Font = Enum.Font.GothamBold
+aviso.Text = "Aguardando próxima votação..."
+aviso.Parent = gui
+
+local limiteTexto = Instance.new("UITextSizeConstraint")
+limiteTexto.MinTextSize = 9
+limiteTexto.MaxTextSize = 17
+limiteTexto.Parent = aviso
+
+local canto = Instance.new("UICorner")
+canto.CornerRadius = UDim.new(0, 8)
+canto.Parent = aviso
+
+local borda = Instance.new("UIStroke")
+borda.Thickness = 1
+borda.Transparency = 0.55
+borda.Color = Color3.fromRGB(110, 155, 210)
+borda.Parent = aviso
+
+local desastreCanto = Instance.new("TextLabel")
+desastreCanto.Name = "DesastreCanto"
+desastreCanto.AnchorPoint = Vector2.new(1, 0)
+desastreCanto.Position = UDim2.new(0.985, 0, 0.055, 0)
+desastreCanto.Size = UDim2.new(0.28, 0, 0, 18)
+desastreCanto.BackgroundTransparency = 1
+desastreCanto.BorderSizePixel = 0
+desastreCanto.TextColor3 = Color3.fromRGB(255, 205, 120)
+desastreCanto.TextStrokeTransparency = 0.55
+desastreCanto.TextXAlignment = Enum.TextXAlignment.Right
+desastreCanto.TextYAlignment = Enum.TextYAlignment.Center
+desastreCanto.Font = Enum.Font.GothamBold
+desastreCanto.TextScaled = true
+desastreCanto.Text = ""
+desastreCanto.Parent = gui
+local limiteDesastre = Instance.new("UITextSizeConstraint")
+limiteDesastre.MinTextSize = 9
+limiteDesastre.MaxTextSize = 13
+limiteDesastre.Parent = desastreCanto
+
+local somAviso = Instance.new("Sound")
+somAviso.Name = "SomAvisoPartida"
+somAviso.SoundId = "rbxassetid://72046313"
+somAviso.Volume = 0.35
+somAviso.Parent = SoundService
+local fimTremor = 0
+local intensidadeTremor = 0
+RunService:BindToRenderStep("TremorPartida", Enum.RenderPriority.Camera.Value + 1, function()
+    if os.clock() &lt; fimTremor then
+        local camera = workspace.CurrentCamera
+        if camera then
+            local escala = intensidadeTremor
+            camera.CFrame = camera.CFrame * CFrame.new((math.random()-0.5)*escala, (math.random()-0.5)*escala, 0)
+        end
+    end
+end)
+
+roundEvent.OnClientEvent:Connect(function(tipo, a, b)
+    if tipo == "Mensagem" then
+        local mensagem = tostring(a)
+        if string.find(string.upper(mensagem), "DESASTRE:", 1, true) then
+            desastreCanto.Text = "⚠ " .. mensagem:gsub("[Dd][Ee][Ss][Aa][Ss][Tt][Rr][Ee]:%s*", "")
+        elseif string.find(mensagem, "Próxima votação", 1, true) then
+            desastreCanto.Text = ""
+            aviso.Text = mensagem
+        else
+            aviso.Text = mensagem
+        end
+    elseif tipo == "Votacao" then
+        aviso.Text = "Pise na plataforma do mapa que deseja escolher!"
+    elseif tipo == "CronometroVoto" then
+        aviso.Text = "VOTAÇÃO: " .. tostring(a) .. "s — pise em uma plataforma"
+    elseif tipo == "FimVotacao" then
+        aviso.Text = "Mapa escolhido: " .. tostring(a):gsub("_", " ")
+    elseif tipo == "Desastre" then
+        desastreCanto.Text = "⚠ " .. string.upper(tostring(a))
+        pcall(function() somAviso:Play() end)
+    elseif tipo == "Tremor" then
+        fimTremor = math.max(fimTremor, os.clock() + (tonumber(a) or 1))
+        intensidadeTremor = 0.16
+    end
+end)
+
+prontoEvent:FireServer()
+print("[InterfacePartida] Interface compacta carregada para " .. player.Name)
+</ProtectedString>
+          </Properties>
+        </Item>
+      </Item>
+    </Item>
+    <Item class="Workspace">
+      <Properties>
+        <string name="Name">Workspace</string>
+      </Properties>
+      <Item class="Part">
+        <Properties>
+          <string name="Name">SpawnLocation</string>
+          <bool name="Anchored">true</bool>
+          <bool name="CanCollide">true</bool>
+          <BrickColor name="BrickColor">Bright green</BrickColor>
+          <Vector3 name="Position">
+            <X>0</X>
+            <Y>4</Y>
+            <Z>0</Z>
+          </Vector3>
+          <Vector3 name="Size">
+            <X>12</X>
+            <Y>1</Y>
+            <Z>12</Z>
+          </Vector3>
+          <bool name="Neutral">true</bool>
+          <bool name="Enabled">true</bool>
+        </Properties>
+      </Item>
+    </Item>
+  </Item>
+</roblox>
